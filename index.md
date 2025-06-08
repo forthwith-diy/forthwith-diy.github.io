@@ -1,4 +1,12 @@
+---
+layout: default
+---
+
 # forthwith.diy
+
+[eng](./eng.html).
+[fil](./fil.html).
+[bis](./bis.html).
 
 The 1987 Constitution states that ARTICLE XI Section 3.4
 
