@@ -6,7 +6,9 @@ Forthwith.diy
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[eng](./eng.html).
+[fil](./fil.html).
+[bis](./bis.html).
 
 There should be whitespace between paragraphs.
 
