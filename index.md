@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+forthwith.diy
 
 ### ARTICLE XI Section 3.4 of the 1987 Constitution
 
