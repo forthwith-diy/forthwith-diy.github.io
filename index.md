@@ -1,56 +1,94 @@
 ---
 layout: default
 ---
-# The 1987 Constitution states that ARTICLE XI Section 3.4
+
+### ARTICLE XI Section 3.4 of the 1987 Constitution
 
 "In case the verified complaint or resolution of impeachment is filed by at least one-third of all the Members of the House, the same shall constitute the Articles of Impeachment, and trial by the Senate shall **forthwith** proceed."
 
 In other words...
 
-# AGAD-AGAD
+# DAPAT AGAD-AGAD
+
+---
+
+## Why the Delay?
+
+Senate President **Chiz Escudero** says that he does not understand the definition of **forthwith** saying the constitution does not use the word "immediately" completely twisting clear meaning of the Constitution. His public statements **contradict the very words of its drafter**.
 
 > “I also wrote the procedural Section including the word ‘forthwith’ … it is precisely meant to mean immediately and without unreasonable delay or in the National language official version ‘agad-agad.’”  
-> — **Adolf Azcuna**, *Drafter of Article XI of the 1987 Constitution*  
+
+> — **Adolf Azcuna**, 
+> *Drafter of Article XI of the 1987 Constitution*  
 > *Published June 8, 2025, GMA News*
 
-> ⚠️ **This is not a suggestion. This is constitutional intent.**
->
-> The use of the word **‘forthwith’** in the 1987 Constitution is **deliberate, precise, and legally binding**. It means:
->
-> - **Immediately**  
-> - **Without unreasonable delay**  
-> - **Agad-agad** in the official Filipino version
+⚠️ **This is not a suggestion. This is an order.**
+
+The use of the word **‘forthwith’** in the 1987 Constitution is **deliberate, precise, and legally binding**. It means:
+
+- **Immediately**  
+- **Without unreasonable delay**  
+- **Agad-agad** in the official Filipino version
+
+
+Any delay now is **willful disobedience** of constitutional duty. This is not bureaucracy — this is **sabotage**. 
 
 ---
 
-### 🧨 So Why the Delay?
 
-Senate President **Chiz Escudero** is attempting to twist the clear meaning of the Constitution. His public statements **contradict the very words of its drafter**.
+## 🚨 The People Demand Action
 
-Any delay now is **willful disobedience** of constitutional duty. This is not bureaucracy — this is **dereliction**. The people are not confused. The law is not confused. The only confusion is the kind being used to buy time.
+Senate President **Chiz Escudero** refuses to begin the impeachment trial **forthwith** despite using the term himself and knowing exactly what it means. He says that *“I will not listen to anyone.”*
 
----
+He has dismissed the voices of **student organizations**, **religious groups**, **civil-society movements**, **universities**, and even **law schools**.
 
-## 🚨 The People Demand Action – Forthwith
+**Let's be clear**
 
-Senate President **Chiz Escudero** refuses to begin the impeachment trial **forthwith** — despite using the term himself and knowing exactly what it means.
+> The people are not confused. 
+> The law is not confused. 
 
-He has dismissed the voices of **student organizations**, **religious groups**, **civil-society movements**, **universities**, and even **law schools** — all calling for the trial to proceed **immediately**.
-
-> He says he “will not listen to anyone.”
+The only people confused are the senators who refuse to conduct the trial forthwith.
 
 **We pay their salaries. We voted them into power. They should listen to us.**
 
-This is not political theater. This is accountability.
+This is not just a political excercise. This is accountability.
 
 ---
 
-### ✊ Let Them Hear Us
+# ✊ Let Them Hear Us
 
-📨 **Write.**  
-📞 **Call.**  
-📢 **Post.**  
-💬 **Comment.**
+## 📨 **Write.**  
+## 📞 **Call.**  
+## 📢 **Post.**  
+## 💬 **Comment.**
 
 Let your senators know:  
-> **The people demand the trial proceed — forthwith.**
+> **The people demand the trial proceed forthwith.**
+
+---
+
+## 📜 List of Philippine Senators
+
+- **ANGARA**, Juan Edgardo “Sonny” – [sensonnyangara@yahoo.com](mailto:sensonnyangara@yahoo.com)  
+- **BINAY**, Maria Lourdes Nancy – [senator.nancy@senate.gov.ph](mailto:senator.nancy@senate.gov.ph), [senlor1@senate.gov.ph](mailto:senlor1@senate.gov.ph)  
+- **CAYETANO**, Alan Peter S. – [sen.alan@senate.gov.ph](mailto:sen.alan@senate.gov.ph)  
+- **CAYETANO**, Pia S. – [sen.pia@senate.gov.ph](mailto:sen.pia@senate.gov.ph)  
+- **DELA ROSA**, Ronald “Bato” – [sen.bato@senate.gov.ph](mailto:sen.bato@senate.gov.ph)  
+- **ESCUDERO**, Francis “Chiz” G. – [appointments@chizescudero.com](mailto:appointments@chizescudero.com), [invitations@chizescudero.com](mailto:invitations@chizescudero.com)  
+- **EJERCITO**, Jinggoy – [sen.jinggoy@senate.gov.ph](mailto:sen.jinggoy@senate.gov.ph)  
+- **TOLENTINO**, Francis “Tol” N. – [sen.tolentino@senate.gov.ph](mailto:sen.tolentino@senate.gov.ph)  
+- **PIMENTEL**, Aquilino “Koko” III – [sen.koko@senate.gov.ph](mailto:sen.koko@senate.gov.ph)  
+- **GO**, Christopher “Bong” – [sen.bong@senate.gov.ph](mailto:sen.bong@senate.gov.ph)  
+- **HONTIVEROS**, Risa – [sen.risa@senate.gov.ph](mailto:sen.risa@senate.gov.ph)  
+- **LAPID**, Manuel “Lito” – [sen.lito@senate.gov.ph](mailto:sen.lito@senate.gov.ph)  
+- **LEGARDA**, Loren – [sen.loren@senate.gov.ph](mailto:sen.loren@senate.gov.ph)  
+- **MARCOS**, Imee – [sen.imee@senate.gov.ph](mailto:sen.imee@senate.gov.ph)  
+- **PADILLA**, Robinhood – [sen.robin@senate.gov.ph](mailto:sen.robin@senate.gov.ph)  
+- **POE**, Grace L. – [sen.grace@senate.gov.ph](mailto:sen.grace@senate.gov.ph)  
+- **REVILLA**, Ramon “Bong” Jr. – [sen.bongrevilla@senate.gov.ph](mailto:sen.bongrevilla@senate.gov.ph)  
+- **TULFO**, Raffy T. – [sen.raffy@senate.gov.ph](mailto:sen.raffy@senate.gov.ph)  
+- **VILLAR**, Cynthia A. – [sencynthia.villar@gmail.com](mailto:sencynthia.villar@gmail.com)  
+- **VILLAR**, Mark A. – [sen.mark@senate.gov.ph](mailto:sen.mark@senate.gov.ph)  
+- **ZUBIRI**, Juan Miguel “Migz” – [sen.migz@senate.gov.ph](mailto:sen.migz@senate.gov.ph)  
+- **GATCHALIAN**, Win – [sen.win@senate.gov.ph](mailto:sen.win@senate.gov.ph)  
+- **EJERCITO**, Joseph Victor “JV” G. – [sen.jv@senate.gov.ph](mailto:sen.jv@senate.gov.ph)
