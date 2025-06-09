@@ -62,7 +62,7 @@ Let your senators know:
 
 ---
 
-## 📝 Copy & Paste Template Message<
+## 📝 Copy & Paste Email Template
 Click the button to copy the message below. Then email or message your senator.
 
 <textarea id="message" rows="12" style="width:100%; padding:1em; font-family:monospace;">
@@ -83,7 +83,7 @@ Sincerely,
 [Your City/Province]
 </textarea>
 
-<button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy</button>
+<button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy Texts</button>
 
 <script>
 function copyMessage() {
@@ -97,14 +97,7 @@ function copyMessage() {
 
 ---
 
-# Contact your Senators
-
-## 📨 **Write.**  
-## 📞 **Call.**  
-## 📢 **Post.**  
-## 💬 **Comment.**
-
-<textarea id="message" rows="12" style="width:100%; padding:1em; font-family:monospace;">
+<textarea id="message" rows="5" style="width:100%; padding:1em; font-family:monospace;">
 senator.nancy@senate.gov.ph,
 senlor1@senate.gov.ph,
 sen.alan@senate.gov.ph,
@@ -142,6 +135,15 @@ function copyMessage() {
   alert("Emails copied to clipboard!");
 }
 </script>
+
+---
+
+# Contact your Senators
+
+## 📨 **Write.**  
+## 📞 **Call.**  
+## 📢 **Post.**  
+## 💬 **Comment.**
 
 - **ANGARA**, Juan Edgardo “Sonny” – [sensonnyangara@yahoo.com](mailto:sensonnyangara@yahoo.com)  
 - **BINAY**, Maria Lourdes Nancy – [senator.nancy@senate.gov.ph](mailto:senator.nancy@senate.gov.ph), [senlor1@senate.gov.ph](mailto:senlor1@senate.gov.ph)  
