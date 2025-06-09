@@ -1,6 +1,6 @@
-title: forthwith.diy
-logo: /assets/img/logo.png
-description: If they won't we will.
-show_downloads: false
+title:
+logo: 
+description:
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
