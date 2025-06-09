@@ -83,7 +83,7 @@ Sincerely,
 [Your City/Province]
 </textarea>
 
-<button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy Texts</button>
+<button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy Text</button>
 
 <script>
 function copyMessage() {
@@ -98,30 +98,7 @@ function copyMessage() {
 ---
 
 <textarea id="message" rows="5" style="width:100%; padding:1em; font-family:monospace;">
-senator.nancy@senate.gov.ph,
-senlor1@senate.gov.ph,
-sen.alan@senate.gov.ph,
-sen.pia@senate.gov.ph,
-sen.bato@senate.gov.ph,
-appointments@chizescudero.com,
-invitations@chizescudero.com,
-sen.jinggoy@senate.gov.ph,
-sen.tolentino@senate.gov.ph,
-sen.koko@senate.gov.ph,
-sen.bong@senate.gov.ph,
-sen.risa@senate.gov.ph,
-sen.lito@senate.gov.ph,
-sen.loren@senate.gov.ph,
-sen.imee@senate.gov.ph,
-sen.robin@senate.gov.ph,
-sen.grace@senate.gov.ph,
-sen.bongrevilla@senate.gov.ph,
-sen.raffy@senate.gov.ph,
-sencynthia.villar@gmail.com,
-sen.mark@senate.gov.ph,
-sen.migz@senate.gov.ph,
-sen.win@senate.gov.ph,
-sen.jv@senate.gov.ph
+senator@chizescudero.com,anakngmasa@jinggoyestrada.ph,tolsenate@gmail.com,senatorkoko@kokopimentel.org,binaynancy2013@yahoo.com,alanpeter@cayetano.com.ph,pia@piacayetano.ph,secretariat.batodelarosa@gmail.com,publicassistance@jvejercito.com,email@wingatchalian.com,senbgconcerns@gmail.com,risahq@gmail.com,sen.manuellitolapid@gmail.com,information@lorenlegarda.com.ph,osimeemarcos@gmail.com,osrobinpadilla@gmail.com,gracepoe2013@gmail.com,sen@bongrevillajr.ph,info@raffytulfoinaction.com,senatorjoelvillanueva@yahoo.com,sencynthiavillar@gmail.com,senatormarkvillar@gmail.com,senmigzzubiri@gmail.com,sen.escudero@gmail.com,senatorjinggoyestrada@gmail.com,osbinay.publicassistance@gmail.com,media.batodelarosa@senate.gov.ph,senjve@jvejercito.com,loren@lorenlegarda.com.ph,senzubirilegis@gmail.com
 </textarea>
 
 <button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy Emails</button>
@@ -145,26 +122,6 @@ function copyMessage() {
 ## 📢 **Post.**  
 ## 💬 **Comment.**
 
-- **ANGARA**, Juan Edgardo “Sonny” – [sensonnyangara@yahoo.com](mailto:sensonnyangara@yahoo.com)  
-- **BINAY**, Maria Lourdes Nancy – [senator.nancy@senate.gov.ph](mailto:senator.nancy@senate.gov.ph), [senlor1@senate.gov.ph](mailto:senlor1@senate.gov.ph)  
-- **CAYETANO**, Alan Peter S. – [sen.alan@senate.gov.ph](mailto:sen.alan@senate.gov.ph)  
-- **CAYETANO**, Pia S. – [sen.pia@senate.gov.ph](mailto:sen.pia@senate.gov.ph)  
-- **DELA ROSA**, Ronald “Bato” – [sen.bato@senate.gov.ph](mailto:sen.bato@senate.gov.ph)  
-- **ESCUDERO**, Francis “Chiz” G. – [appointments@chizescudero.com](mailto:appointments@chizescudero.com), [invitations@chizescudero.com](mailto:invitations@chizescudero.com)  
-- **EJERCITO**, Jinggoy – [sen.jinggoy@senate.gov.ph](mailto:sen.jinggoy@senate.gov.ph)  
-- **TOLENTINO**, Francis “Tol” N. – [sen.tolentino@senate.gov.ph](mailto:sen.tolentino@senate.gov.ph)  
-- **PIMENTEL**, Aquilino “Koko” III – [sen.koko@senate.gov.ph](mailto:sen.koko@senate.gov.ph)  
-- **GO**, Christopher “Bong” – [sen.bong@senate.gov.ph](mailto:sen.bong@senate.gov.ph)  
-- **HONTIVEROS**, Risa – [sen.risa@senate.gov.ph](mailto:sen.risa@senate.gov.ph)  
-- **LAPID**, Manuel “Lito” – [sen.lito@senate.gov.ph](mailto:sen.lito@senate.gov.ph)  
-- **LEGARDA**, Loren – [sen.loren@senate.gov.ph](mailto:sen.loren@senate.gov.ph)  
-- **MARCOS**, Imee – [sen.imee@senate.gov.ph](mailto:sen.imee@senate.gov.ph)  
-- **PADILLA**, Robinhood – [sen.robin@senate.gov.ph](mailto:sen.robin@senate.gov.ph)  
-- **POE**, Grace L. – [sen.grace@senate.gov.ph](mailto:sen.grace@senate.gov.ph)  
-- **REVILLA**, Ramon “Bong” Jr. – [sen.bongrevilla@senate.gov.ph](mailto:sen.bongrevilla@senate.gov.ph)  
-- **TULFO**, Raffy T. – [sen.raffy@senate.gov.ph](mailto:sen.raffy@senate.gov.ph)  
-- **VILLAR**, Cynthia A. – [sencynthia.villar@gmail.com](mailto:sencynthia.villar@gmail.com)  
-- **VILLAR**, Mark A. – [sen.mark@senate.gov.ph](mailto:sen.mark@senate.gov.ph)  
-- **ZUBIRI**, Juan Miguel “Migz” – [sen.migz@senate.gov.ph](mailto:sen.migz@senate.gov.ph)  
-- **GATCHALIAN**, Win – [sen.win@senate.gov.ph](mailto:sen.win@senate.gov.ph)  
-- **EJERCITO**, Joseph Victor “JV” G. – [sen.jv@senate.gov.ph](mailto:sen.jv@senate.gov.ph)
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWhyegRZCBSeGPxJqVZsFFr9N-ha7OGVncTyQF50YfzbBhUQJ1c_Q8nPv1lVaRF2MKR_CF7zqACx5k/pubhtml?widget=true&amp;headers=false"></iframe>
+
+If you have trouble viewing this database use this link <p><a href="contact.forthwith.diy">contact.forthwith.diy</a></p> instead.
