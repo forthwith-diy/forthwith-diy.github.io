@@ -65,6 +65,27 @@ Let your senators know:
 ## 📝 Copy & Paste Email Template
 Click the button to copy the message below. Then email or message your senator.
 
+### Email Address
+<textarea id="message" rows="5" style="width:100%; padding:1em; font-family:monospace;">
+senator@chizescudero.com,anakngmasa@jinggoyestrada.ph,tolsenate@gmail.com,senatorkoko@kokopimentel.org,binaynancy2013@yahoo.com,alanpeter@cayetano.com.ph,pia@piacayetano.ph,secretariat.batodelarosa@gmail.com,publicassistance@jvejercito.com,email@wingatchalian.com,senbgconcerns@gmail.com,risahq@gmail.com,sen.manuellitolapid@gmail.com,information@lorenlegarda.com.ph,osimeemarcos@gmail.com,osrobinpadilla@gmail.com,gracepoe2013@gmail.com,sen@bongrevillajr.ph,info@raffytulfoinaction.com,senatorjoelvillanueva@yahoo.com,sencynthiavillar@gmail.com,senatormarkvillar@gmail.com,senmigzzubiri@gmail.com,sen.escudero@gmail.com,senatorjinggoyestrada@gmail.com,osbinay.publicassistance@gmail.com,media.batodelarosa@senate.gov.ph,senjve@jvejercito.com,loren@lorenlegarda.com.ph,senzubirilegis@gmail.com
+</textarea>
+
+<button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy Emails</button>
+
+<script>
+function copyMessage() {
+  var copyText = document.getElementById("message");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+  document.execCommand("copy");
+  alert("Emails copied to clipboard!");
+}
+</script>
+
+---
+
+### Template Message
+
 <textarea id="message" rows="12" style="width:100%; padding:1em; font-family:monospace;">
 Subject: Forthwith Proceed with Impeachment Trial
 
@@ -95,23 +116,7 @@ function copyMessage() {
 }
 </script>
 
----
-
-<textarea id="message" rows="5" style="width:100%; padding:1em; font-family:monospace;">
-senator@chizescudero.com,anakngmasa@jinggoyestrada.ph,tolsenate@gmail.com,senatorkoko@kokopimentel.org,binaynancy2013@yahoo.com,alanpeter@cayetano.com.ph,pia@piacayetano.ph,secretariat.batodelarosa@gmail.com,publicassistance@jvejercito.com,email@wingatchalian.com,senbgconcerns@gmail.com,risahq@gmail.com,sen.manuellitolapid@gmail.com,information@lorenlegarda.com.ph,osimeemarcos@gmail.com,osrobinpadilla@gmail.com,gracepoe2013@gmail.com,sen@bongrevillajr.ph,info@raffytulfoinaction.com,senatorjoelvillanueva@yahoo.com,sencynthiavillar@gmail.com,senatormarkvillar@gmail.com,senmigzzubiri@gmail.com,sen.escudero@gmail.com,senatorjinggoyestrada@gmail.com,osbinay.publicassistance@gmail.com,media.batodelarosa@senate.gov.ph,senjve@jvejercito.com,loren@lorenlegarda.com.ph,senzubirilegis@gmail.com
-</textarea>
-
-<button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy Emails</button>
-
-<script>
-function copyMessage() {
-  var copyText = document.getElementById("message");
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); // For mobile devices
-  document.execCommand("copy");
-  alert("Emails copied to clipboard!");
-}
-</script>
+*Feel free to edit this message with your own message*
 
 ---
 
@@ -126,4 +131,4 @@ function copyMessage() {
 
 
 
-*If you have trouble viewing this database use this link <a href="contact.forthwith.diy">contact.forthwith.diy</a> instead*
+*If you have trouble viewing the table view <a href="contact.forthwith.diy">contact.forthwith.diy</a> instead*
