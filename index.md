@@ -127,8 +127,8 @@ function copyMessage() {
 ## 📢 **Post.**  
 ## 💬 **Comment.**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWhyegRZCBSeGPxJqVZsFFr9N-ha7OGVncTyQF50YfzbBhUQJ1c_Q8nPv1lVaRF2MKR_CF7zqACx5k/pubhtml?widget=true&amp;headers=false" width="100%" height="200px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWhyegRZCBSeGPxJqVZsFFr9N-ha7OGVncTyQF50YfzbBhUQJ1c_Q8nPv1lVaRF2MKR_CF7zqACx5k/pubhtml?widget=true&amp;headers=false" width="100%" height="300px"></iframe>
 
 
 
-*If you have trouble viewing the table view <a href="contact.forthwith.diy">contact.forthwith.diy</a> instead*
+*If you have trouble viewing the table view <a href="https://docs.google.com/spreadsheets/d/1GvbunJ9vDS7u2cgDR0cUlYbIaLr5jybWBHE6quSEpvk/edit?usp=sharing">contact.forthwith.diy</a> instead*
