@@ -122,6 +122,7 @@ function copyMessage() {
 ## 📢 **Post.**  
 ## 💬 **Comment.**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWhyegRZCBSeGPxJqVZsFFr9N-ha7OGVncTyQF50YfzbBhUQJ1c_Q8nPv1lVaRF2MKR_CF7zqACx5k/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWhyegRZCBSeGPxJqVZsFFr9N-ha7OGVncTyQF50YfzbBhUQJ1c_Q8nPv1lVaRF2MKR_CF7zqACx5k/pubhtml?widget=true&amp;headers=false" width="100%" height="100%"></iframe>
 
-If you have trouble viewing this database use this link <p><a href="contact.forthwith.diy">contact.forthwith.diy</a></p> instead.
+
+*If you have trouble viewing this database use this link <a href="contact.forthwith.diy">contact.forthwith.diy</a> instead*
