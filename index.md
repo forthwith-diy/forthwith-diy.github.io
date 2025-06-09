@@ -55,7 +55,7 @@ This is not just a political excercise. This is accountability.
 
 ---
 
-# ✊ Let Them Hear Us
+# Hear us
 
 ## 📨 **Write.**  
 ## 📞 **Call.**  
@@ -65,9 +65,42 @@ This is not just a political excercise. This is accountability.
 Let your senators know:  
 > **The people demand the trial proceed forthwith.**
 
+<h2>📝 Copy & Paste Template Message</h2>
+<p>Click the button to copy the message below. Then email or message your senator.</p>
+
+<textarea id="message" rows="12" style="width:100%; padding:1em; font-family:monospace;">
+Subject: Forthwith Proceed with Impeachment Trial
+
+Dear Senator,
+
+I am writing as a concerned citizen to demand that you fulfill your constitutional duty and proceed with the impeachment trial forthwith. 
+
+The law is clear. The mandate is clear. The public clamor is deafening. There is no excuse for delay.
+
+The Filipino people are watching. You serve at our pleasure. Do not delay justice. Do not silence our voices.
+
+Forthwith means immediately. agad-agad.
+
+Sincerely,
+[Your Name]
+[Your City/Province]
+</textarea>
+
+<button onclick="copyMessage()" style="margin-top:1em; padding:0.5em 1em; font-weight:bold;">📋 Copy to Clipboard</button>
+
+<script>
+function copyMessage() {
+  var copyText = document.getElementById("message");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+  document.execCommand("copy");
+  alert("Message copied to clipboard!");
+}
+</script>
+
 ---
 
-## 📜 List of Philippine Senators
+## Contact your Senators
 
 - **ANGARA**, Juan Edgardo “Sonny” – [sensonnyangara@yahoo.com](mailto:sensonnyangara@yahoo.com)  
 - **BINAY**, Maria Lourdes Nancy – [senator.nancy@senate.gov.ph](mailto:senator.nancy@senate.gov.ph), [senlor1@senate.gov.ph](mailto:senlor1@senate.gov.ph)  
